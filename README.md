@@ -16,3 +16,5 @@ How to rebase correctly?
 Deleted `main` as started new `main` branch.
 
 Investigate github rebase merge option.
+
+Manual pushing.
