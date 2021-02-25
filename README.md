@@ -10,3 +10,5 @@ Branches:
 The `dev` branch will be set to the github default branch.
 
 The `main` branch will be rebased onto the `dev` branch.
+
+How to rebase correctly?
