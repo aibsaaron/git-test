@@ -21,3 +21,7 @@ Investigate github rebase merge option.
 Manual pushing.
 
 Testing linear history
+
+Squash merge features into `dev`..
+
+Rebase to `stage` and `main`.
